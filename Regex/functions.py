@@ -1,4 +1,4 @@
-import re #re: regex函式庫
+import re
 
 text = "Contact us at support@example.com or admin@domain.org. james.ku@jameskool.com james.ku@bb.cc Jake-kk@gmail.com"
 pattern = r"[\w.-]+@[\w.-]+\.[a-zA-Z]{2,63}"
